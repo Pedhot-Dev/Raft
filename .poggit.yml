@@ -5,4 +5,5 @@ branches:
 projects:
   Raft:
     path: ""
+    icon: "raft.png"
 ...
